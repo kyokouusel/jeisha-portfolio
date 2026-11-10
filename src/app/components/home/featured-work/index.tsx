@@ -92,7 +92,7 @@ const FeaturedWork = () => {
                                                 muted
                                                 loop
                                                 playsInline
-                                                preload="auto"
+                                                preload="metadata"
                                                 onLoadedData={(event) => {
                                                     const video = event.currentTarget;
                                                     if (video.currentTime === 0 && video.duration > 0) {
