@@ -40,14 +40,14 @@ const featureWork: {
         description: "Edited video sample.",
         roles: ["Video Editing"],
         type: "video",
-        src: "/images/feature-work/video-1.mp4"
+        src: "https://media.githubusercontent.com/media/kyokouusel/jeisha-portfolio/main/public/images/feature-work/video-1.mp4"
     },
     {
         title: "Video Editing 02",
         description: "Edited video sample.",
         roles: ["Video Editing"],
         type: "video",
-        src: "/images/feature-work/video-2.mp4"
+        src: "https://media.githubusercontent.com/media/kyokouusel/jeisha-portfolio/main/public/images/feature-work/video-2.mp4"
     }
 ];
 
